@@ -4,13 +4,11 @@ This project predicts the number of calories burned during physical activities u
 
 Features
 
-- Cleaned and preprocessed health dataset
+- Cleaned and pre-processed health dataset
 - Model training using Regression Algorithms (Linear Regression, Random Forest, etc.)
 - Model evaluation with accuracy metrics
 - Predictive system to estimate calories burned
-- Cloud integration using Google Colab
-- Optional: Gradio-based interface for interactive prediction
-
+- Cloud integration using Google Collab
 
 Dataset
 
